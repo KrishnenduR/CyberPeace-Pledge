@@ -1,6 +1,6 @@
 # CyberPeace Digital Citizenship Pledge
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/KrishnenduR/CyberPeace-Pledge)
 
 A visually stunning, minimalist, and mobile-responsive single-page web application designed for users to take the 'CyberPeace Digital Citizenship Pledge'. The application features a clean layout presenting the pledge text, followed by a simple and elegant form to capture the user's full name, email, and mobile number. Upon successful submission, the application will dynamically generate a personalized PDF certificate with the user's name embedded and initiate an automatic download. Simultaneously, it will redirect the user to an external registration page in a new browser tab. The entire experience is designed to be seamless, professional, and trustworthy, running entirely on the client-side for maximum speed and scalability on Cloudflare's edge network.
 
@@ -86,7 +86,7 @@ This project is configured for seamless deployment to the Cloudflare network.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/KrishnenduR/CyberPeace-Pledge)
 
 ## Contributing
 
